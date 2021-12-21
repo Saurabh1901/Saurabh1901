@@ -36,7 +36,7 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ... -->
 
-- 🔭 I’m currently working on ReactJS, React Native.
+- 🔭 I’m currently working with ReactJS, Redux, Node.js, Loopback, Lodash, DynamoDB, Stripe API, Slack API, AWS, React Native.
 - 🌱 I’m currently learning Data Structures and Algorithms.
 - 👯 I’m looking to collaborate on projects pertaining to React Framework and React Native.
 <!-- - 💬 Ask me about C++, Python, MySQL -->
