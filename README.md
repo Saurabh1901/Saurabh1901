@@ -22,7 +22,7 @@
 </p> -->
   
 ### 👋 Glad to see you here! &nbsp;
-  I'm a final year student pursuing Bachelors's in Computer Science 🎓 from Parul University 🏛. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. I'm currently into Web Development 🕸️ and Computer Vision 👀.
+  Full Stack Developer at Visit Health Pvt Ltd. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨.
   <br>
   
   Here are some ideas to get you started:
